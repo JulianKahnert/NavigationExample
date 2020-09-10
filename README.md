@@ -9,7 +9,7 @@ I have noticed an unexpected behavior in the SwiftUI NavigationView.
 Within the WWDC session ["Design for iPadOS"](https://developer.apple.com/wwdc20/10206) it is described that an iPadOS app should use the sidebar instead of tabs if possible. I want to implement this in my app [PDF Archiver](https://pdf-archiver.io). One tab uses a splitscreen view (document list and detail view), the other tabs do not. This implementation is currently not possible in SwiftUI.
 
 * Xcode Version 12.0 beta 6 (12A8189n)
-* iPadOS 14 beta 6
+* iPadOS 14 beta 6 & 7 & 8
 
 ### Steps to reproduce
 
